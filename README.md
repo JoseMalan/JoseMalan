@@ -18,6 +18,7 @@
 - Google Business Intelligence Professional Certificate
 - Google Data Analytics Professional Certificate
 - Google Project Management Professional Certificate
+- Certificação Avançada Gestor Ágil - ENAP
 
 ---
 
