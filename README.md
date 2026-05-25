@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou José Malan
+# 👋 Olá, eu sou o Malan
 
 🎯 Especialista em Business Intelligence | Analytics Engineer  
 🚀 Transformando dados em decisões estratégicas  
