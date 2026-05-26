@@ -3,7 +3,7 @@
 🎯 Especialista em Business Intelligence | Analytics Engineer  
 🚀 Transformando dados em decisões estratégicas  
 
-📍 Brasil  
+📍 Brasil. Petrolina-PE
 🎓 Engenharia de Computação | Business Intelligence
 
 🏅 Certificações
@@ -24,11 +24,17 @@
 
 ## 🧠 Sobre mim
 
-Sou especialista em BI e arquiteto de solução digitais, com formação em Engenharia de Computação e foco em transformar dados em insights acionáveis que geram impacto real no negócio.
+Sou especialista em Business Intelligence e arquitetura de soluções digitais, com perfil analítico e forte atuação na geração de insights orientados a dados. Tenho experiência no desenvolvimento de soluções analíticas completas, conectando conhecimento técnico e visão de negócio para gerar resultados consistentes e de alto impacto.
 
-Tenho experiência no desenvolvimento de dashboards, automação de processos com Python e construção de pipelines de dados (ETL), local e em Cloud, integrando diferentes fontes como SQL Server, BigQuery,SharePoint, Azure+,AWS+,GCP+.
+Atuo de forma estratégica em todo o ciclo de vida da solução: desde o entendimento do problema, análise de riscos e levantamento de requisitos, até o desenho da arquitetura, desenvolvimento, entrega e sustentação. Sempre com foco em resolver problemas reais e promover inovação.
 
-💡 Acredito que dados só têm valor quando geram ação, por isso, meu foco vai além da análise: é sobre resolver problemas reais.
+Tenho experiência na transformação digital de diferentes áreas, criando soluções para coleta, integração e análise estratégica de dados. Minha atuação inclui desenvolvimento de dashboards, automação de processos e construção de pipelines de dados (ETL), tanto em ambientes locais quanto em cloud.
+
+Valorizo comunicação clara, transparência, credibilidade e senso de dono, além de já ter atuado em times multidisciplinares e na liderança de projetos e iniciativas de transformação.
+
+ , além de desenvolvimento de aplicações na Power Platform.
+
+💡 Acredito que dados só têm valor quando geram ação, por isso, meu foco vai além das análises e descobertas: é sobre resolver problemas reais!
 
 ---
 
@@ -36,13 +42,13 @@ Tenho experiência no desenvolvimento de dashboards, automação de processos co
 
 **Linguagens:** Python | SQL | R  
 **BI:** Power BI | Spotfire 
-**Dados:** Azure | GCP | AWS  
+**Dados:** ambientes Microsoft | Azure | AWS | GCP | SAP 
 **Automação:** Power Automate | Power Apps | Python
 **Outros:** Git | Jira | Confluence  
 
 ---
 
-## 🚀 Projetos
+## 🚀 Alguns Projetos
 
 ### 🔔 Forecast News!
 Sistema automatizado de notificações sobre criação e alterações de forecasts, apoiando planejamento e operações.
@@ -56,7 +62,20 @@ Dashboard para gestão de mão de obra com indicadores de desempenho, absenteís
 ### 🔍 BI Flow Mapper
 Ferramenta para visualização de Data Lineage em Power BI (mapeamento de conectores, tabelas e relações).
 
+### DW em Cloud
+Criação de Data Warehouse no GCP
+
+### Seed Production Management Tool
+Score automático da produção por máquina operacional responsável pela contagem e separação de sementes
+
+### Precision Genomic Metrics
+Metricas de análise de materiais genéticos para produçao de sementes.
+
+### Tickets via Teams
+Sistema de tickets via MS Teams + Power Automate + Sql Server
+
 ---
+
 
 ## 📫 Contato
 
